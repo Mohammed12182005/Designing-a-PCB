@@ -1,4 +1,3 @@
-# Designing-a-PCB
 
 # Overview
 
