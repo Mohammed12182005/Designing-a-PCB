@@ -6,7 +6,7 @@ This board was designed to be the central control unit for a small robotic dog. 
 
 # Features
 
-Microcontroller: Arduino Nano (ATmega328)
+Microcontroller: Arduino Nano 
 
 Power input: Single-cell 3.7V battery via dedicated connector
 
@@ -16,7 +16,7 @@ Voltage booster: MT3608 2A boost converter module for stepping up battery voltag
 
 4x servo headers: One 3-pin header per leg, for easy connection of standard hobby servos
 
-IMU sensor: MPU6050 (accelerometer + gyroscope) connected via I2C for balance sensing
+IMU sensor: MPU6050  connected via I2C for balance sensing
 Double layer PCB with clearly labeled, logically arranged components.
 
 # PCB Design
